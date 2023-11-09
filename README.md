@@ -1,4 +1,5 @@
 Used Manage Packages for Solution (Kullanılan Nugetler);
+
 1.FluentValidation(11.5.2 version),
 
 2.FluentValidation.AspNetCore(11.3.0 version),
