@@ -31,6 +31,9 @@ Project Information;
 
 5. Rules were created with Fluent Validation.
 
+6. Login and Register operations were performed with Microsoft.AspNetCore.Identity.
+
+
 
 Kullanılan Teknolojiler: 
 
@@ -45,4 +48,6 @@ Proje Bilgileri;
 4. Canlı döviz kuru gösterimi eklenildi.
 
 5. Fluent Validation ile kurallar oluşturuldu.
+
+6. Microsoft.AspNetCore.Identity ile Login ve Register işlemleri gerçekleştirildi.
 
