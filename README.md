@@ -25,7 +25,7 @@ Project Information;
 
 2. Repository Desing Pattern applied.
 
-3. 3. OOP (Layered Architecture) was used and SOLID principles were applied.
+3. OOP (Layered Architecture) was used and SOLID principles were applied.
 
 
 Kullanılan Teknolojiler: 
