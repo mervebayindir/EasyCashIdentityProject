@@ -27,6 +27,8 @@ Project Information;
 
 3. OOP (Layered Architecture) was used and SOLID principles were applied.
 
+4. Live exchange rate display added.
+
 
 Kullanılan Teknolojiler: 
 
@@ -38,3 +40,4 @@ Proje Bilgileri;
 
 3. OOP (Katmanlı mimari) ile çalışılıp SOLID prensipleri uygulandı.
 
+4. Canlı döviz kuru gösterimi eklenildi
