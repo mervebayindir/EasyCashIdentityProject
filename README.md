@@ -29,6 +29,8 @@ Project Information;
 
 4. Live exchange rate display added.
 
+5. Rules were created with Fluent Validation.
+
 
 Kullanılan Teknolojiler: 
 
@@ -40,4 +42,7 @@ Proje Bilgileri;
 
 3. OOP (Katmanlı mimari) ile çalışılıp SOLID prensipleri uygulandı.
 
-4. Canlı döviz kuru gösterimi eklenildi
+4. Canlı döviz kuru gösterimi eklenildi.
+
+5. Fluent Validation ile kurallar oluşturuldu.
+
